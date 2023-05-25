@@ -1,4 +1,5 @@
-🎪  Python Funfair  🎪
+🎪 Python Funfair 🎪
+
 Welcome to Python Funfair – your ultimate amusement park for embarking on an exciting and magical journey to learn Python, right from the basics! 🐍
 
 Does the thought of learning a new programming language feel like a circus juggling act? No worries! Python Funfair is designed to transform that act into a thrilling roller coaster ride. Our approach? Learn with fun!
